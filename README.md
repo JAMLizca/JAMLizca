@@ -68,7 +68,7 @@
     </p>
     <h2>5. Te recomiendo que instales IntelliJ IDEA</h2>
     <p>
-        Si buscas un IDE potente, fácil de usar y con muchas características que te ayudarán a mejorar tu productividad al programar en Java, te recomiendo encarecidamente que instales **IntelliJ IDEA**. Este IDE es uno de los más populares entre los desarrolladores de Java, ofreciendo características avanzadas como:<br><br>
+        Si buscas un IDE potente, fácil de usar y con muchas características que te ayudarán a mejorar tu productividad al programar en Java, te recomiendo encarecidamente que instales IntelliJ IDEA. Este IDE es uno de los más populares entre los desarrolladores de Java, ofreciendo características avanzadas como:<br><br>
         - Soporte para refactorización de código: Puedes reestructurar tu código sin perder su funcionalidad.<br>
         - Integración con herramientas de control de versiones: Como Git y SVN, facilitando el trabajo en equipo y el manejo de versiones.<br>
         - Asistente de depuración: Te ayuda a detectar y corregir errores de manera eficiente.<br><br>
