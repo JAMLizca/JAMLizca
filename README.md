@@ -67,6 +67,7 @@
         Luego, instala la extensión "Java Extension Pack" desde el Marketplace dentro de VS Code para comenzar a programar en Java.<br><br>
     </p>
     <h2>5. Te recomiendo que instales IntelliJ IDEA</h2>
+<img src="https://www.bestnetsoft.com/wp-content/uploads/2024/04/IntelliJ_IDEA-1024x260.png" alt="Logo de IntelliJ IDEA" width="500"><br>
     <p>
         Si buscas un IDE potente, fácil de usar y con muchas características que te ayudarán a mejorar tu productividad al programar en Java, te recomiendo encarecidamente que instales IntelliJ IDEA. Este IDE es uno de los más populares entre los desarrolladores de Java, ofreciendo características avanzadas como:<br><br>
         - Soporte para refactorización de código: Puedes reestructurar tu código sin perder su funcionalidad.<br>
