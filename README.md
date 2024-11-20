@@ -116,6 +116,10 @@
  <h2>5. Tutorial Guía: Aprende a Ejecutar Código Java</h2>
     <p>El video está diseñado para principiantes, explicando de forma clara y detallada cómo configurar tu entorno y ejecutar tu código. Haz clic en el siguiente enlace para verlo:
         <a href="https://www.youtube.com/watch?v=4WKo13f2Qpc" target="_blank">Tutorial: Cómo ejecutar código Java</a><br><br>
+        <hr width="36%" >
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
     </p>
 <h1><p><strong><em style="font-size: 250px;">🚀✨ ¡Daremos inicio con <span style="color: #007bff;">Java desde cero</span>! 🖥️💡 #AprendamosJuntos 🎓</em></strong></p></h1>
 
