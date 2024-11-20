@@ -117,18 +117,6 @@
     <p>El video está diseñado para principiantes, explicando de forma clara y detallada cómo configurar tu entorno y ejecutar tu código. Haz clic en el siguiente enlace para verlo:
         <a href="https://www.youtube.com/watch?v=4WKo13f2Qpc" target="_blank">Tutorial: Cómo ejecutar código Java</a><br><br>
     </p>
-
-<h2>6. Enlaces Útiles</h2>
-    <p>
-        - [Descargar JDK desde Oracle](https://www.oracle.com/java/technologies/javase-downloads.html)<br>
-        - [Documentación oficial de Java](https://docs.oracle.com/en/java/)<br>
-        - [IDE IntelliJ IDEA (Descarga gratuita)](https://www.jetbrains.com/idea/download/)<br>
-        - [Plataforma JDoodle para Java](https://www.jdoodle.com/)<br>
-        - [Descargar NetBeans](https://netbeans.apache.org/download/index.html)<br>
-        - [Descargar VS Code](https://code.visualstudio.com/)<br>
-        - [Última versión de Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)<br>
-        - [Tutorial en YouTube sobre cómo ejecutar código Java](https://www.youtube.com/watch?v=4WKo13f2Qpc)<br>
-    </p>
 </body>
 </html>
 
