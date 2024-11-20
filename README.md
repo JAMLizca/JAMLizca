@@ -114,8 +114,7 @@
     </p>
 
  <h2>5. Tutorial Guía: Aprende a Ejecutar Código Java</h2>
-    <p>
-        Para ayudarte a empezar de manera sencilla y efectiva, te recomendamos seguir este tutorial guiado que te enseña desde los primeros pasos hasta ejecutar tu primer programa Java. El video está diseñado para principiantes, explicando de forma clara y detallada cómo configurar tu entorno y ejecutar tu código. Haz clic en el siguiente enlace para verlo:
+    <p>El video está diseñado para principiantes, explicando de forma clara y detallada cómo configurar tu entorno y ejecutar tu código. Haz clic en el siguiente enlace para verlo:
         <a href="https://www.youtube.com/watch?v=4WKo13f2Qpc" target="_blank">Tutorial: Cómo ejecutar código Java</a><br><br>
     </p>
 
