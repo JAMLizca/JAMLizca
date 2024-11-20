@@ -95,10 +95,10 @@
 <h2>4. Descarga y Uso de IDEs</h2>
     <p>
         Aquí te presentamos algunos de los IDEs más populares para programar en Java:<br><br>
-        - **NetBeans:** Un IDE gratuito y de código abierto que incluye todo lo necesario para desarrollar, depurar y ejecutar aplicaciones Java. Descárgalo desde: 
-        <a href="https://netbeans.apache.org/download/index.html" target="_blank">Descargar NetBeans</a><br><br>
+        - NetBeans: Un IDE gratuito y de código abierto que incluye todo lo necesario para desarrollar, depurar y ejecutar aplicaciones Java. Descárgalo desde: 
+        <a href="https://netbeans.apache.org/download/index.html" target="_blank">Descargar NetBeans</a><br>
         
-  - **VS Code (Visual Studio Code):** Un editor ligero y altamente personalizable, que se puede configurar para trabajar con Java mediante extensiones. Descárgalo desde:
+-VS Code (Visual Studio Code): Un editor ligero y altamente personalizable, que se puede configurar para trabajar con Java mediante extensiones. Descárgalo desde:
         <a href="https://code.visualstudio.com/" target="_blank">Descargar VS Code</a><br>
         Luego, instala la extensión "Java Extension Pack" desde el Marketplace dentro de VS Code para comenzar a programar en Java.<br><br>
     </p>
