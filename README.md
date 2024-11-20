@@ -104,12 +104,12 @@
     </p>
     <h2>5. Te recomiendo que instales IntelliJ IDEA</h2>
 <img src="https://www.bestnetsoft.com/wp-content/uploads/2024/04/IntelliJ_IDEA-1024x260.png" alt="Logo de IntelliJ IDEA" width="500"><br>
-    <p>
-        Si buscas un IDE potente, fácil de usar y con muchas características que te ayudarán a mejorar tu productividad al programar en Java, te recomiendo encarecidamente que instales IntelliJ IDEA. Este IDE es uno de los más populares entre los desarrolladores de Java, ofreciendo características avanzadas como:<br><br>
-        - Soporte para refactorización de código: Puedes reestructurar tu código sin perder su funcionalidad.<br>
+    <p>IntelliJ IDEA es un IDE potente y fácil de usar, recomendado para mejorar la productividad al programar en Java. Es popular entre los desarrolladores de Java por sus características avanzadas:
+        <br><br>
+        -Refactorización de código: Permite reestructurar el código sin perder funcionalidad.<br>
         - Integración con herramientas de control de versiones: Como Git y SVN, facilitando el trabajo en equipo y el manejo de versiones.<br>
-        - Asistente de depuración: Te ayuda a detectar y corregir errores de manera eficiente.<br><br>
-        - IntelliJ IDEA es ideal tanto para principiantes como para desarrolladores avanzados. Puedes descargar la versión gratuita desde su página oficial:
+        -Integración con control de versiones: Compatible con herramientas como Git y SVN, facilitando el trabajo en equipo..<br> 
+        - Asistente de depuración: Ayuda a detectar y corregir errores eficientemente. Puedes descargar la versión gratuita desde su página oficial:
         <a href="https://www.jetbrains.com/idea/download/" target="_blank">Descargar IntelliJ IDEA</a><br><br>
     </p>
 
