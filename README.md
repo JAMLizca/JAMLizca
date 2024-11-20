@@ -11,50 +11,86 @@
         Java es un lenguaje de programación versátil y ampliamente utilizado en el desarrollo de aplicaciones móviles, de escritorio y sistemas empresariales. En esta guía, te mostramos las formas más comunes de ejecutar código Java, cómo instalar el entorno de desarrollo adecuado y configurarlo en tu sistema.<br><br>
     </p>
 
- <h2>1. Instalación de Java</h2>
-    <p>
-        Para comenzar a programar en Java, primero debes instalar el Java Development Kit (JDK). Aquí están los pasos para hacerlo:<br><br>
-        <strong>Paso 1:</strong> Dirígete a la página oficial de Oracle para descargar la última versión de Java.<br>
-        <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Descargar JDK desde Oracle</a><br><br>
-        <strong>Paso 2:</strong> Selecciona la versión adecuada para tu sistema operativo (Windows, macOS, Linux) y descarga el instalador.<br><br>
-        <strong>Paso 3:</strong> Ejecuta el instalador y sigue las instrucciones para completar la instalación.<br><br>
-        <strong>Paso 4:</strong> Configura la variable de entorno <code>JAVA_HOME</code> para que puedas ejecutar comandos Java desde la línea de comandos.<br><br>
-        <strong>Nota:</strong> La versión más reciente es la <strong>JDK 21</strong>, y puedes verificar la última versión en el siguiente enlace: 
-        <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Última versión de Java JDK</a>
-    </p>
+<h2>1. Instalación de Java</h2>
+<p>
+    <img src="https://www.codtronic.com/wp-content/uploads/2022/10/jdk.png" width="450"><br>
+    Para comenzar a programar en Java, primero debes instalar el Java Development Kit (JDK). Aquí están los pasos para hacerlo:<br><br>
+    <strong>Paso 1:</strong> Dirígete a la página oficial de Oracle para descargar la última versión de Java.<br>
+    <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Descargar JDK desde Oracle</a><br><br>
+    <strong>Paso 2:</strong> Selecciona la versión adecuada para tu sistema operativo (Windows, macOS, Linux) y descarga el instalador.<br><br>
+    <strong>Paso 3:</strong> Ejecuta el instalador y sigue las instrucciones para completar la instalación.<br><br>
+    <strong>Paso 4:</strong> Configura la variable de entorno <code>JAVA_HOME</code> para que puedas ejecutar comandos Java desde la línea de comandos.<br><br>
+    <strong>Nota:</strong> La versión más reciente es la <strong>JDK 21</strong>, y puedes verificar la última versión en el siguiente enlace: 
+    <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Última versión de Java JDK</a>
+</p>
 
 <h2>2. Configuración de las Variables de Entorno</h2>
-    <p>
-        Configurar las variables de entorno permite que puedas ejecutar los comandos de Java en cualquier directorio de tu sistema.<br><br>
-        <strong>En Windows:</strong><br>
-        1. Accede al Panel de Control y busca "Variables de Entorno".<br>
-        2. Añade una nueva variable llamada <code>JAVA_HOME</code> con la ruta de instalación de Java (por ejemplo, <code>C:\Program Files\Java\jdk-XX.X.X</code>).<br>
-        3. Modifica la variable <code>PATH</code> para incluir <code>%JAVA_HOME%\bin</code>.<br><br>
-        <strong>En macOS/Linux:</strong><br>
-        Edita el archivo de configuración <code>.bashrc</code> o <code>.zshrc</code> y agrega las siguientes líneas:<br>
-        <code>export JAVA_HOME=/ruta/a/jdk</code><br>
-        <code>export PATH=$JAVA_HOME/bin:$PATH</code><br>
-        Luego, ejecuta <code>source ~/.bashrc</code> o <code>source ~/.zshrc</code> para que los cambios tomen efecto.<br><br>
-    </p>
+<p>
+    Configurar las variables de entorno permite que puedas ejecutar los comandos de Java en cualquier directorio de tu sistema.
+</p>
+<table>
+    <tr>
+        <th>Sistema Operativo</th>
+        <th>Pasos</th>
+    </tr>
+    <tr>
+        <td><strong>Windows</strong></td>
+        <td>
+            <ol>
+                <li>Accede al Panel de Control y busca "Variables de Entorno".</li>
+                <li>Añade una nueva variable llamada <code>JAVA_HOME</code> con la ruta de instalación de Java (por ejemplo, <code>C:\Program Files\Java\jdk-XX.X.X</code>).</li>
+                <li>Modifica la variable <code>PATH</code> para incluir <code>%JAVA_HOME%\bin</code>.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>macOS/Linux</strong></td>
+        <td>
+            <ol>
+                <li>Edita el archivo de configuración <code>.bashrc</code> o <code>.zshrc</code> y agrega las siguientes líneas:</li>
+                <ul>
+                    <li><code>export JAVA_HOME=/ruta/a/jdk</code></li>
+                    <li><code>export PATH=$JAVA_HOME/bin:$PATH</code></li>
+                </ul>
+                <li>Ejecuta <code>source ~/.bashrc</code> o <code>source ~/.zshrc</code> para que los cambios tomen efecto.</li>
+            </ol>
+        </td>
+    </tr>
+</table>
 
-<h2>3. Formas de Ejecutar Código Java</h2>
-    <p>
-        Una vez que Java esté instalado y configurado, existen diversas formas de ejecutar tus programas. Aquí te mostramos las más comunes:<br><br>
-        <strong>1. Usar un IDE (Entorno de Desarrollo Integrado):</strong><br>
-        Herramientas como IntelliJ IDEA, Eclipse, NetBeans** y VS Code ofrecen un entorno completo para escribir, compilar y ejecutar programas Java de manera eficiente.<br><br>
 
- <strong>2. Desde la línea de comandos:</strong><br>
-        Puedes compilar y ejecutar tu código Java utilizando los comandos de la terminal. Para compilar un archivo Java, usa:<br>
-        <code>javac MiPrograma.java</code><br>
-        Y para ejecutarlo, usa:<br>
-        <code>java MiPrograma</code><br><br>
 
-<strong>3. Con herramientas online:</strong><br>
-        Si prefieres no instalar nada, puedes ejecutar código Java en plataformas online como JDoodle, Replit, o Compiler Explorer.<br><br>
+<h2>Formas de Ejecutar Código Java</h2>
+<img src="https://desarrolloweb.com/storage/collection_images/actual/0wLchbKtPUumIKGjaGAVPYQT2ADz20xQMkjyTUBY.jpg" alt="Logo de IntelliJ IDEA" width="500">
+<p>
+    Una vez que Java esté instalado y configurado, existen diversas formas de ejecutar tus programas. Aquí te mostramos las más comunes:
+</p>
+<table>
+    <tr>
+        <th>Método</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <td><strong>Usar un IDE</strong></td>
+        <td>Herramientas como IntelliJ IDEA, Eclipse, NetBeans y VS Code ofrecen un entorno completo para escribir, compilar y ejecutar programas Java.</td>
+    </tr>
+    <tr>
+        <td><strong>Desde la línea de comandos</strong></td>
+        <td>Compila y ejecuta tu código Java utilizando los comandos de la terminal:<br>
+            <code>javac MiPrograma.java</code><br>
+            <code>java MiPrograma</code>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Con herramientas online</strong></td>
+        <td>Puedes ejecutar código Java en plataformas online como JDoodle, Replit, o Compiler Explorer.</td>
+    </tr>
+    <tr>
+        <td><strong>Usando un editor de texto y terminal</strong></td>
+        <td>Escribe el código en un editor como VS Code o Sublime Text, compílalo y ejecútalo desde la terminal.</td>
+    </tr>
+</table>
 
- <strong>4. Usando un editor de texto y terminal:</strong><br>
-        Otra opción es escribir el código en un editor como VS Code o Sublime Text, compilarlo y ejecutarlo desde la terminal.<br><br>
-    </p>
 
 <h2>4. Descarga y Uso de IDEs</h2>
     <p>
@@ -77,13 +113,13 @@
         <a href="https://www.jetbrains.com/idea/download/" target="_blank">Descargar IntelliJ IDEA</a><br><br>
     </p>
 
-    <h2>5. Tutorial Guía: Aprende a Ejecutar Código Java</h2>
+ <h2>5. Tutorial Guía: Aprende a Ejecutar Código Java</h2>
     <p>
         Para ayudarte a empezar de manera sencilla y efectiva, te recomendamos seguir este tutorial guiado que te enseña desde los primeros pasos hasta ejecutar tu primer programa Java. El video está diseñado para principiantes, explicando de forma clara y detallada cómo configurar tu entorno y ejecutar tu código. Haz clic en el siguiente enlace para verlo:
         <a href="https://www.youtube.com/watch?v=4WKo13f2Qpc" target="_blank">Tutorial: Cómo ejecutar código Java</a><br><br>
     </p>
 
-    <h2>6. Enlaces Útiles</h2>
+<h2>6. Enlaces Útiles</h2>
     <p>
         - [Descargar JDK desde Oracle](https://www.oracle.com/java/technologies/javase-downloads.html)<br>
         - [Documentación oficial de Java](https://docs.oracle.com/en/java/)<br>
