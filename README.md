@@ -240,6 +240,51 @@ public class HolaMundo {
 /* comentarios para varias lineas de codigo */
             </pre>
         </section>
+	<h1>Salida de Datos en Java</h1>
+    <p>En Java, para mostrar mensajes en pantalla, usamos la clase <strong>System</strong>, que tiene el atributo <strong>out</strong> (salida). Este atributo nos permite acceder a dos métodos principales:</p>
+    <ul>
+        <li><strong>print()</strong>: Imprime texto sin salto de línea.</li>
+        <li><strong>println()</strong>: Imprime texto con salto de línea al final.</li>
+    </ul>
+    <p>No es necesario importar nada, ya que la clase <strong>System</strong> forma parte de la biblioteca estándar de Java.</p>
+    <h1>Métodos <code>System.out.print()</code> y <code>System.out.println()</code> en Java</h1>
+    
+<h2>1. <code>System.out.print()</code></h2>
+    <p>Este método imprime el texto en la pantalla y el cursor queda en la misma línea. Es decir, si después de este método escribes otro mensaje, se mostrará seguido del anterior, sin saltar a una nueva línea.</p>
+    
+ <h3>Ejemplo:</h3>
+    <pre>
+<code>
+System.out.print("Hola");
+System.out.print(" mundo");
+</code>
+    </pre>
+    
+<h3>Salida:</h3>
+    <pre>
+<code>
+Hola mundo
+</code>
+    </pre>
+    
+<h2>2. <code>System.out.println()</code></h2>
+    <p>Este método también imprime el texto, pero agrega un salto de línea automáticamente al final. Es decir, cualquier mensaje que imprimas después se mostrará en una nueva línea.</p>
+    
+ <h3>Ejemplo:</h3>
+    <pre>
+<code>
+System.out.println("Hola");
+System.out.println("mundo");
+</code>
+    </pre>
+    
+  <h3>Salida:</h3>
+    <pre>
+<code>
+Hola
+mundo
+</code>
+    </pre>
     </main>
   <footer>
         <p>&copy; 2024 Fundamentos de Java. Todos los derechos reservados.</p>
