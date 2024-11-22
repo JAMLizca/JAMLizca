@@ -157,39 +157,79 @@ public class HolaMundo {
 
    <section>
             <h2>Tipos de datos en Java</h2>
-    link: https://www.youtube.com/watch?v=82UVmKJ0txw
 <p>Java cuenta con varios tipos de datos básicos:</p>
-            <table border="1" cellspacing="0" cellpadding="5">
-                <thead>
-                    <tr>
-                        <th>Tipo</th>
-                        <th>Tamaño</th>
-                        <th>Ejemplo</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>int</td>
-                        <td>4 bytes</td>
-                        <td>123</td>
-                    </tr>
-                    <tr>
-                        <td>double</td>
-                        <td>8 bytes</td>
-                        <td>123.45</td>
-                    </tr>
-                    <tr>
-                        <td>char</td>
-                        <td>2 bytes</td>
-                        <td>'A'</td>
-                    </tr>
-                    <tr>
-                        <td>boolean</td>
-                        <td>1 bit</td>
-                        <td>true/false</td>
-                    </tr>
-                </tbody>
-            </table>
+	   <table border="1">
+        <thead>
+            <tr>
+                <th>TIPO</th>
+                <th>NOMBRE</th>
+                <th>OCUPA</th>
+                <th>RANGO APROXIMADO</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Tipos primitivos -->
+            <tr>
+                <td rowspan="8">TIPOS PRIMITIVOS</td>
+                <td>byte</td>
+                <td>1 byte</td>
+                <td>-128 a 127</td>
+            </tr>
+            <tr>
+                <td>short</td>
+                <td>2 bytes</td>
+                <td>-32768 a 32767</td>
+            </tr>
+            <tr>
+                <td>int</td>
+                <td>4 bytes</td>
+                <td>2¹⁰</td>
+            </tr>
+            <tr>
+                <td>long</td>
+                <td>8 bytes</td>
+                <td>Muy grande</td>
+            </tr>
+            <tr>
+                <td>float</td>
+                <td>4 bytes</td>
+                <td>Muy grande</td>
+            </tr>
+            <tr>
+                <td>double</td>
+                <td>8 bytes</td>
+                <td>Muy grande</td>
+            </tr>
+            <tr>
+                <td>char</td>
+                <td>2 bytes</td>
+                <td>Carácter simple</td>
+            </tr>
+            <tr>
+                <td>boolean</td>
+                <td>1 byte</td>
+                <td>Valor true o false</td>
+            </tr>
+            <!-- Tipos objeto -->
+            <tr>
+                <td rowspan="4">TIPOS OBJETO</td>
+                <td>String</td>
+                <td colspan="2">Cadenas de texto</td>
+            </tr>
+            <tr>
+                <td>Arrays</td>
+                <td colspan="2">Series de elementos tipo vector o matriz</td>
+            </tr>
+            <tr>
+                <td>Definidos por el usuario</td>
+                <td colspan="2">Ejemplo: Taxi, Autobús</td>
+            </tr>
+            <tr>
+                <td>Tipos envoltorio</td>
+                <td colspan="2">Byte, Short, Integer, etc.</td>
+            </tr>
+        </tbody>
+    </table>
         </section>
 
   <section>
