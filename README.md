@@ -1,7 +1,7 @@
 
 </p>
 <div align="center">
-<h1 align="center">Hi , I'm Jose Montenegro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Alejandro Montenegro<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A backend developer and a software development technology student, aspiring to become a software engineer at Surcolombiana University.</h3>
 </div>
 <br>
