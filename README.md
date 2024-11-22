@@ -61,7 +61,7 @@
 
 
 <h2>Formas de Ejecutar Código Java</h2>
-<img src="https://desarrolloweb.com/storage/collection_images/actual/0wLchbKtPUumIKGjaGAVPYQT2ADz20xQMkjyTUBY.jpg" alt="Logo de IntelliJ IDEA" width="500">
+<img src="https://desarrolloweb.com/storage/collection_images/actual/0wLchbKtPUumIKGjaGAVPYQT2ADz20xQMkjyTUBY.jpg" alt="Logo de java" width="500">
 <p>
     Una vez que Java esté instalado y configurado, existen diversas formas de ejecutar tus programas. Aquí te mostramos las más comunes:
 </p>
@@ -122,9 +122,90 @@
 </p>
     </p>
 <h1><p><strong><em style="font-size: 250px;">🚀✨ ¡Daremos inicio con <span style="color: #007bff;">Java desde cero</span>! 🖥️💡 #AprendamosJuntos 🎓</em></strong></p></h1>
+ <h1>Fundamentos de Java</h1>
+        <p>Guía básica para comenzar con el lenguaje de programación Java.</p>
+    </header>
 
+<main>
+        <section>
+            <h2>¿Qué es Java?</h2>
+           <img src="https://docpath.com/wp-content/uploads/benefits-of-using-java-programming-language.jpg" alt="Logo de Java" width="500">
+            <p>Java es un lenguaje de programación orientado a objetos desarrollado por Sun Microsystems (ahora parte de Oracle). Es conocido por su portabilidad, ya que permite ejecutar el mismo código en diferentes plataformas gracias a la máquina virtual de Java (JVM).</p>
+        </section>
 
-</body>
+   <section>
+            <h2>Hola Mundo en Java</h2>
+            <p>El programa más básico para empezar a programar en Java es "Hola Mundo". A continuación, se muestra cómo se escribe:</p>
+            <pre>
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("¡Hola Mundo!");
+    }
+}
+            </pre>
+        </section>
+
+   <section>
+            <h2>Características principales de Java</h2>
+            <ul>
+                <li><strong>Orientado a objetos:</strong> Todo en Java se organiza en clases y objetos.</li>
+                <li><strong>Portabilidad:</strong> Gracias a la JVM, el código se puede ejecutar en cualquier plataforma.</li>
+                <li><strong>Seguro:</strong> Java tiene características integradas como el manejo de memoria automática para evitar errores comunes.</li>
+                <li><strong>Multihilo:</strong> Permite ejecutar múltiples tareas al mismo tiempo dentro de un programa.</li>
+            </ul>
+        </section>
+
+   <section>
+            <h2>Tipos de datos en Java</h2>
+    link: https://www.youtube.com/watch?v=82UVmKJ0txw
+<p>Java cuenta con varios tipos de datos básicos:</p>
+            <table border="1" cellspacing="0" cellpadding="5">
+                <thead>
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Tamaño</th>
+                        <th>Ejemplo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>int</td>
+                        <td>4 bytes</td>
+                        <td>123</td>
+                    </tr>
+                    <tr>
+                        <td>double</td>
+                        <td>8 bytes</td>
+                        <td>123.45</td>
+                    </tr>
+                    <tr>
+                        <td>char</td>
+                        <td>2 bytes</td>
+                        <td>'A'</td>
+                    </tr>
+                    <tr>
+                        <td>boolean</td>
+                        <td>1 bit</td>
+                        <td>true/false</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+  <section>
+            <h2>Comentarios en Java</h2>
+            <p>Los comentarios son útiles para documentar el código y no son ejecutados por el programa. Hay tres tipos:</p>
+            <pre>
+// Comentario de una línea
+/* comentarios para varias lineas de codigo */
+            </pre>
+        </section>
+    </main>
+  <footer>
+        <p>&copy; 2024 Fundamentos de Java. Todos los derechos reservados.</p>
+    </footer>
+
+  </body>
 </html>
 
 
