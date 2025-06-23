@@ -1,57 +1,62 @@
-# 👋 Hola, soy Jose Alejandro Montenegro
+# 👨‍💻 Jose Alejandro Montenegro
 
-> _"En cada desafío de programación, veo una oportunidad para crecer y aportar soluciones innovadoras."_
-
----
-
-## 🚀 Acerca de mí
-
-Soy estudiante de **Tecnología en Desarrollo de Software** con una gran pasión por aprender y crear soluciones tecnológicas efectivas. A lo largo de mi formación he adquirido experiencia en diversas tecnologías tanto para el desarrollo frontend como backend. Mi objetivo es seguir perfeccionando mis habilidades mientras trabajo en proyectos que aporten valor real y resuelvan problemas complejos.
-
-Me especializo en:
-
-- **Frontend**: HTML, CSS, JavaScript.
-- **Backend**: Java, Spring Boot.
-- **Bases de datos**: MySQL.
+> _“Programar es más que escribir código: es entender problemas y convertir ideas en soluciones funcionales y sostenibles.”_
 
 ---
 
-## 🛠️ Tecnologías
+## 🧩 ¿Quién soy?
 
-| Categoría             | Tecnologías                                                                 |
-|----------------------|------------------------------------------------------------------------------|
-| 🎨 **Frontend**       | HTML · CSS · JavaScript                                   |
-| ⚙️ **Backend**        | Java · Spring Boot                                         |
-| 🗄️ **Bases de datos** | MySQL                                        |
----
+Soy Jose Alejandro Montenegro, estudiante de **Tecnología en Desarrollo de Software**, con una firme convicción: la tecnología tiene el poder de transformar la vida de las personas. Y quiero ser parte de ese cambio.
 
-## 💡 Habilidades técnicas destacadas
-
-### Frontend
-
-- **HTML, CSS & JavaScript**: Desarrollo de interfaces web interactivas, con un enfoque en la accesibilidad, usabilidad y diseño responsivo.
-
-### Backend
-
-- **Java & Spring Boot**: Creación de aplicaciones backend utilizando Java y Spring Boot para desarrollar APIs RESTful seguras y escalables.
-  
-### Bases de datos
-
-- **SQL**: Diseño y gestión de bases de datos, creación de consultas optimizadas y manejo de relaciones entre tablas.
-
+Me apasiona el desarrollo tanto del lado del cliente como del servidor, y disfruto entender cómo encajan todas las piezas. Creo en la mejora continua, en aprender de cada proyecto, y en escribir código que no solo funcione, sino que sea entendible y mantenible.
 
 ---
 
+## 🧠 Lo que me gusta construir
 
-##  Conectemos 🤝
+Actualmente me enfoco en el desarrollo de aplicaciones web, combinando herramientas del frontend y backend para crear soluciones funcionales y centradas en el usuario.
 
-Estoy abierto a nuevas oportunidades de colaboración y aprendizaje en el mundo del desarrollo de software. Si tienes un proyecto interesante o simplemente quieres compartir ideas y consejos sobre programación, ¡sería un placer conectar! 😊
+- **Frontend**  
+  HTML · CSS · JavaScript  
+  Diseño de interfaces limpias, responsivas y accesibles.  
 
-📧 **Email:** [Email](josejosemontenegroqc@gmail.com) 
+- **Backend**  
+  Java · Spring Boot  
+  Creación de APIs REST, lógica de negocio sólida, buenas prácticas de desarrollo.  
+
+- **Bases de datos**  
+  MySQL  
+  Modelado relacional, consultas eficientes, normalización de datos.  
+
 ---
-🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/alejandro-montenegro-77485631a/)
+
+## 🧰 Tecnologías que uso
+
+| Área              | Herramientas y Tecnologías                        |
+|-------------------|---------------------------------------------------|
+| 🎨 **Frontend**     | HTML · CSS · JavaScript                          |
+| ⚙️ **Backend**      | Java · Spring Boot                               |
+| 🗄️ **Base de datos**| MySQL                                            |
+
 ---
 
-⭐ ¡Gracias por visitar mi perfil! 😄
+## 🚀 Hacia dónde voy
+
+Me interesa seguir creciendo como desarrollador, participar en proyectos reales y seguir aprendiendo de cada línea de código que escribo. Aspiro a formar parte de equipos donde la colaboración, la innovación y la calidad del software sean una prioridad.
+
+También me motiva explorar nuevas tecnologías, metodologías ágiles y contribuir, en el futuro, a proyectos de código abierto.
+
+---
+
+## 🤝 ¿Colaboramos?
+
+Estoy abierto a nuevas oportunidades, mentorías, proyectos colaborativos o simplemente charlas sobre desarrollo. Si tienes una idea o crees que podríamos construir algo juntos, ¡escríbeme!
+
+📩 **Email:** [josejosemontenegroqc@gmail.com](mailto:josejosemontenegroqc@gmail.com)  
+🔗 **LinkedIn:** [alejandro-montenegro](https://www.linkedin.com/in/alejandro-montenegro-77485631a/)
+
+---
+
+⭐ *Gracias por visitar mi perfil. Construyamos algo genial.* 🚀
 
     
