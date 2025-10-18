@@ -58,7 +58,7 @@ Todo lo que encontrarás en mis repositorios es parte de mi aprendizaje. Son pro
 
 Estoy abierto a nuevas oportunidades, mentorías, colaboración en proyectos o simplemente a compartir ideas. Si estás comenzando como yo o ya llevas tiempo en esto, ¡será un gusto conectar!
 
-📩 **Email:** [josejosemontenegroqc@gmail.com](mailto:josejosemontenegroqc@gmail.com)  
+📩 **Email:** [josemontenegroqc@gmail.com](mailto:josejosemontenegroqc@gmail.com)  
 🔗 **LinkedIn:** [alejandro-montenegro](https://www.linkedin.com/in/alejandro-montenegro-77485631a/)
 
 ---
