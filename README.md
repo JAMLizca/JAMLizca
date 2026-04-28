@@ -17,11 +17,11 @@ Creo firmemente que la tecnología puede transformar realidades, y quiero aporta
 Actualmente me enfoco en el desarrollo de aplicaciones web. Todo lo que hago forma parte de mi aprendizaje, y los proyectos que encontrarás en mis repositorios son ejercicios, prácticas y pequeños retos que me ayudan a entender mejor cada tecnología.
 
 - **Frontend**  
-  HTML · CSS · JavaScript  
+  HTML · CSS · JavaScript 
   Interfaces simples, responsivas y accesibles.  
 
 - **Backend**  
-  Java · Spring Boot  
+  Java · Spring Boot · 
   APIs REST básicas, lógica de negocio y estructura de proyectos.  
 
 - **Bases de datos**  
