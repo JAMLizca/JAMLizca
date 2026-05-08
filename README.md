@@ -34,7 +34,7 @@ Actualmente me enfoco en el desarrollo de aplicaciones web. Todo lo que hago for
 
 | Área              | Herramientas y Tecnologías                        |
 |-------------------|---------------------------------------------------|
-| 🎨 **Frontend**     | HTML · CSS · JavaScript                          |
+| 🎨 **Frontend**     | HTML · CSS · JavaScript · Boostrap                         |
 | ⚙️ **Backend**      | Java · Spring Boot                               |
 | 🗄️ **Base de datos**| MySQL                                            |
 
