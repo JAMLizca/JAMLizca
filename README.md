@@ -54,6 +54,13 @@ Todo lo que encontrarás en mis repositorios es parte de mi aprendizaje. Son pro
 
 ---
 
+> [!IMPORTANT]
+> 🚧 **Estado actual:** Actualmente estoy disponible para prácticas, y colaboraciones. ¡Conectemos!
+>
+> > [!NOTE]
+> > 📢 **Novedades:** Estoy aprendiendo React y PHP (Laravel). Pronto subiré nuevos proyectos con estas tecnologías.
+---
+
 ## 🤝 ¿Colaboramos?
 
 Estoy abierto a nuevas oportunidades, mentorías, colaboración en proyectos o simplemente a compartir ideas. Si estás comenzando como yo o ya llevas tiempo en esto, ¡será un gusto conectar!
