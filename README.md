@@ -1,7 +1,6 @@
 # 👨‍💻 Jose Alejandro Montenegro
 
-> _“Programar es más que escribir código: es entender problemas y convertir ideas en soluciones funcionales y sostenibles.”_
-
+> _“Programar es más que escribir código: es entender problemas y convertir ideas en soluciones. Recuerda que cada línea que creas es el fruto de tu propio esfuerzo, paciencia y sacrificio; un paso más hacia tu evolución.”_
 ---
 
 ## 🧩 ¿Quién soy?
@@ -10,7 +9,6 @@ Soy Jose Alejandro Montenegro, estudiante de **Tecnología en Desarrollo de Soft
 
 Creo firmemente que la tecnología puede transformar realidades, y quiero aportar soluciones que tengan impacto. Aunque estoy empezando, tengo muchas ganas de crecer y seguir explorando este mundo.
 
----
 
 ## 🧠 Lo que me gusta construir
 
@@ -28,9 +26,8 @@ Actualmente me enfoco en el desarrollo de aplicaciones web. Todo lo que hago for
   MySQL  
   Consultas, relaciones, y normalización de datos.
 
----
 
-## 🧰 Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
@@ -46,16 +43,16 @@ Actualmente me enfoco en el desarrollo de aplicaciones web. Todo lo que hago for
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="40" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="40" alt="Laravel" />
 </p>
-
 <br />
 
 <h3 align="center">🗄️ Base de Datos</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB" />
 </p>
 
----
 
 ## 🚀 En camino...
 
@@ -91,11 +88,9 @@ Verás desde **proyectos de práctica y ejercicios de clase**, hasta pequeños e
 Estoy abierto a nuevas oportunidades, mentorías, colaboración en proyectos o simplemente a compartir ideas. Si estás comenzando como yo o ya llevas tiempo en esto, ¡será un gusto conectar!
 
 📩 **Email:** [josemontenegroqc@gmail.com](mailto:josejosemontenegroqc@gmail.com)  
-🔗 **LinkedIn:** [alejandro-montenegro](https://www.linkedin.com/in/alejandro-montenegro-77485631a/)
+🔗 **LinkedIn:** [alejandro-montenegro](www.linkedin.com/in/jose-alejandro-montenegro-77485631a)
 
 ---
-
-### 🐍 Mi juego de la culebrita
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAMLizca/JAMLizcaa/output/github-contribution-grid-snake-dark.svg">
@@ -104,4 +99,6 @@ Estoy abierto a nuevas oportunidades, mentorías, colaboración en proyectos o s
 </picture>
 
 ---
-
+<p align="center">
+  <i>"Cada línea de código es el fruto de tu esfuerzo, dedicación y sacrificio. No te rindas, el proceso vale la pena."</i> 💻✨
+</p>
