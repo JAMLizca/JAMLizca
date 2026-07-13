@@ -30,27 +30,52 @@ Actualmente me enfoco en el desarrollo de aplicaciones web. Todo lo que hago for
 
 ---
 
-## 🧰 Tecnologías que estoy usando
+## 🧰 Tecnologías y Herramientas
 
-| Área              | Herramientas y Tecnologías                        |
-|-------------------|---------------------------------------------------|
-| 🎨 **Frontend**     | HTML · CSS · JavaScript · Boostrap                         |
-| ⚙️ **Backend**      | Java · Spring Boot                               |
-| 🗄️ **Base de datos**| MySQL                                            |
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="40" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="Bootstrap" />
+</p>
+
+<br />
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="40" alt="Spring Boot" />
+</p>
+
+<br />
+
+<h3 align="center">🗄️ Base de Datos</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL" />
+</p>
 
 ---
 
 ## 🚀 En camino...
 
-Estoy dando mis primeros pasos, aprendiendo con cada línea de código y cada error. Mi meta es seguir creciendo como desarrollador, involucrarme en proyectos reales y, algún día, poder ayudar a otros que estén comenzando como yo.
+> 💡 *“Aprendiendo con cada línea de código y cada error.”*
 
-También me interesa explorar nuevas tecnologías, buenas prácticas y eventualmente contribuir a proyectos de código abierto.
+Estoy dando mis primeros pasos en este mundo del desarrollo. Mi meta es **seguir creciendo profesionalmente**, involucrarme en proyectos reales y, en el futuro, poder guiar y apoyar a otros que estén comenzando su viaje en la programación.
+
+✨ **¿Qué me mueve actualmente?**
+* 🔍 Explorar nuevas tecnologías y frameworks.
+* 🛠️ Dominar las buenas prácticas de desarrollo.
+* 🌐 Contribuir en un futuro a proyectos de código abierto (*Open Source*).
 
 ---
 
 ## 📁 Sobre mis repositorios
 
-Todo lo que encontrarás en mis repositorios es parte de mi aprendizaje. Son proyectos de práctica, ejercicios de clase, pequeños experimentos y pruebas de conceptos. ¡Cada uno representa un paso más en este viaje!
+> 🛠️ **Nota de aprendizaje:** Todo lo que encontrarás en mis repositorios es parte de mi proceso formativo. 
+
+Verás desde **proyectos de práctica y ejercicios de clase**, hasta pequeños experimentos y pruebas de concepto. ¡Cada repositorio representa un escalón más en este viaje como desarrollador!
+
 
 ---
 
@@ -70,4 +95,13 @@ Estoy abierto a nuevas oportunidades, mentorías, colaboración en proyectos o s
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Todo gran desarrollador empezó desde cero.* 🚀
+### 🐍 Mi juego de la culebrita
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JAMLizca/JAMLizcaa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JAMLizca/JAMLizcaa/output/github-contribution-grid-snake.svg">
+  <img alt="Github snake game" src="https://raw.githubusercontent.com/JAMLizca/JAMLizcaa/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
