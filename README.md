@@ -5,7 +5,7 @@
 
 ## 🧩 ¿Quién soy?
 
-Soy Jose Alejandro Montenegro, estudiante de **Tecnología en Desarrollo de Software**, y actualmente me encuentro en pleno proceso de formación. Estoy aprendiendo, equivocándome, mejorando y disfrutando cada paso del camino.
+Soy Jose Alejandro Montenegro, estudiante de **Tecnología en Desarrollo de Software**, y actualmente me encuentro cursando mi ultimo semestre. Estoy aprendiendo, equivocándome, mejorando y disfrutando cada paso del camino.
 
 Creo firmemente que la tecnología puede transformar realidades, y quiero aportar soluciones que tengan impacto. Aunque estoy empezando, tengo muchas ganas de crecer y seguir explorando este mundo.
 
@@ -19,11 +19,11 @@ Actualmente me enfoco en el desarrollo de aplicaciones web. Todo lo que hago for
   Interfaces simples, responsivas y accesibles.  
 
 - **Backend**  
-  Java · Spring Boot · 
+  Php · Laravel · Java
   APIs REST básicas, lógica de negocio y estructura de proyectos.  
 
 - **Bases de datos**  
-  MySQL  
+  MySQL · MongoDB
   Consultas, relaciones, y normalización de datos.
 
 
@@ -80,7 +80,7 @@ Verás desde **proyectos de práctica y ejercicios de clase**, hasta pequeños e
 > 🚧 **Estado actual:** Actualmente estoy disponible para prácticas, y colaboraciones. ¡Conectemos!
 >
 > > [!NOTE]
-> > 📢 **Novedades:** Estoy aprendiendo React y PHP (Laravel). Pronto subiré nuevos proyectos con estas tecnologías.
+> > 📢 **Novedades:** Estoy aprendiendo React y Go. Pronto subiré nuevos proyectos con estas tecnologías.
 ---
 
 ## 🤝 ¿Colaboramos?
